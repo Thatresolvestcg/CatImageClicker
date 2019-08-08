@@ -1,2 +1,2 @@
 # CatImageRandomiser
-random images of cats
+Press the button to see the next image.
